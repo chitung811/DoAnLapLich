@@ -15,6 +15,20 @@ namespace UngDungLapLich
         public Form1()
         {
             InitializeComponent();
+
+            LoadMatrix();
+        }
+
+
+        void LoadMatrix()
+        {
+            for (int i = 0; i < Cons.DayOfCulumn; i++)
+            {
+                for (int j = 0; j < Cons.DayOfWeek; i++)
+                {
+
+                }
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
