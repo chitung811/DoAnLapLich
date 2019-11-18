@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,8 +9,10 @@ namespace Lập_lịch_thông_báo
 {
     public class PlanItem
     {
-        private DateTime date;
-        private string job
+        public DateTime Date;
+
+        private string job;
+        public string Job
         { 
             get { return job; }
             set { job = value; }
@@ -17,24 +20,24 @@ namespace Lập_lịch_thông_báo
 
         private Point fromTime;
 
-        private Point FromTime
+        public Point FromTime
         {
-            get { return formTime; }
+            get { return fromTime; }
             set { fromTime = value;  }
         }
         private Point toTime;
 
-        private Point ToTime
+        public Point ToTime
         {
             get { return toTime; }
-            set { toTime = Value; }
+            set { toTime = value; }
         }
         private string status;
 
-        private string Status
+        public string Status
         {
             get { return status; }
-            set { status = Value; }
+            set { status = value; }
         }
 
         public static List<string> ListStatus = new List<string>() { "DONE", "DOING", "COMING", "MISSED" };
@@ -45,7 +48,7 @@ namespace Lập_lịch_thông_báo
     {
         DONE,
         DOING,
-        COMJING,
+        COMING,
         MISSED
     }
 }

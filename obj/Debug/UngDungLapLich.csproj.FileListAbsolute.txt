@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\bin\Debug\UngDungLapLich.exe.config
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\bin\Debug\UngDungLapLich.exe
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\bin\Debug\UngDungLapLich.pdb
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.Form1.resources
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.Properties.Resources.resources
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.exe
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.pdb
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\UngDungLapLich.Form2.resources
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\Lập_lịch_thông_báo.AJob.resources
+C:\Users\Admin\source\repos\UngDungLapLich\UngDungLapLich\obj\Debug\Lập_lịch_thông_báo.Dailyplan.resources
