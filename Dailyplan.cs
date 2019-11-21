@@ -12,6 +12,8 @@ namespace Lập_lịch_thông_báo
 {
     public partial class Dailyplan : Form
     {
+        public string filePath = "data.xml";
+
         private DateTime date;
 
         public DateTime Date
